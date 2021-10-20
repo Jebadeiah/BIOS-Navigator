@@ -1,0 +1,225 @@
+.button_main {
+  width: 100px;
+  height: 40px;
+  background: transparent;
+  }
+.button_extreme-tweaker {
+  width: 280px;
+  height: 40px;
+  background: transparent;
+  }
+.button_advanced {
+  width: 170px;
+  height: 40px;
+  background: transparent;
+  }
+.button_monitor {
+  width: 137px;
+  height: 40px;
+  background: transparent;
+  }
+.button_boot {
+  width: 83px;
+  height: 40px;
+  background: transparent;
+  }
+.button_tool {
+  width: 75px;
+  height: 40px;
+  background: transparent;
+  }
+.button_exit {
+  width: 70px;
+  height: 40px;
+  background: transparent;
+  }
+.button_scroll_up {
+  width: 20px;
+  height: 325px;
+  background: transparent;
+  }
+.button_scroll_down {
+  width: 20px;
+  height: 325px;
+  background: transparent;
+  }
+.button_in_window {
+  width: 1532px;
+  height: 45px;
+  background: transparent;
+  }
+.img-wrapper {
+  position: relative;
+  }
+.img-responsive {
+  width: auto;
+  height: auto;
+  }
+.overlay_main {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 322px;
+  right: 0;
+  }
+.overlay_extreme-tweaker {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 460px;
+  right: 0;
+  }
+.overlay_advanced {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 779px;
+  right: 0;
+  }
+.overlay_monitor {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 990px;
+  right: 0;
+  }
+.overlay_boot {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 1170px;
+  right: 0;
+  }
+.overlay_tool {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 1295px;
+  right: 0;
+  }
+.overlay_exit {
+  position: absolute;
+  top: 118px;
+  bottom: 0;
+  left: 1415px;
+  right: 0;
+  }
+.overlay_scroll_up {
+  position: absolute;
+  top: 156px;
+  bottom: 0;
+  left: 1544px;
+  right: 0;
+  }
+.overlay_scroll_down {
+  position: absolute;
+  top: 481px;
+  bottom: 0;
+  left: 1544px;
+  right: 0;
+  }
+.overlay_back_a_page {
+  position: absolute;
+  top: 167px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+/* Below are all of the buttons unique to each page. Space */
+/* Space between buttons is 56px */
+
+/* MAIN */
+
+/* END MAIN */
+
+/* EXTREME TWEAKER */
+
+.overlay_cpu_core_ratio_1 {
+  position: absolute;
+  top: 574px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_curve_optimizer {
+  position: absolute;
+  top: 390px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_precision_boost_overdrive {
+  position: absolute;
+  top: 738px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_precision_boost_overdrive_2 {
+  position: absolute;
+  top: 156px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_dram_timing_control {
+  position: absolute;
+  top: 202px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_external_digi_power_control {
+  position: absolute;
+  top: 256px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_tweakers_paradise {
+  position: absolute;
+  top: 307px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_security {
+  position: absolute;
+  top: 746px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+/* END TWEAKER'S PARADISE */
+
+
+
+
+
+/* GARBAGE TEST CODE BELOW */
+.overlay_test_button {
+  position: absolute;
+  top: 349px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
+.overlay_test_button_2 {
+  position: absolute;
+  top: 405px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+}.overlay_test_button_3 {
+  position: absolute;
+  top: px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+}.overlay_test_button_4 {
+  position: absolute;
+  top: px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  }
