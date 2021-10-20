@@ -122,7 +122,7 @@
   position: absolute;
   top: 167px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 /* Below are all of the buttons unique to each page. Space */
@@ -130,6 +130,13 @@
 
 /* MAIN */
 
+.overlay_security {
+  position: absolute;
+  top: 746px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
 /* END MAIN */
 
 /* EXTREME TWEAKER */
@@ -138,58 +145,52 @@
   position: absolute;
   top: 574px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_curve_optimizer {
   position: absolute;
   top: 390px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_precision_boost_overdrive {
   position: absolute;
   top: 738px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
-.overlay_precision_boost_overdrive_2 {
+.overlay_precision_boost_overdrive2 {
   position: absolute;
-  top: 156px;
+  top: 400px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_dram_timing_control {
   position: absolute;
   top: 202px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_external_digi_power_control {
   position: absolute;
   top: 256px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_tweakers_paradise {
   position: absolute;
   top: 307px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
-.overlay_security {
-  position: absolute;
-  top: 746px;
-  bottom: 0;
-  left: 0px;
-  right: 0;
-  }
+
 /* END TWEAKER'S PARADISE */
 
 
@@ -199,27 +200,27 @@
 /* GARBAGE TEST CODE BELOW */
 .overlay_test_button {
   position: absolute;
-  top: 349px;
+  top: 0;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
 .overlay_test_button_2 {
   position: absolute;
-  top: 405px;
+  top: 0;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
 }.overlay_test_button_3 {
   position: absolute;
-  top: px;
+  top: 0;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
 }.overlay_test_button_4 {
   position: absolute;
   top: px;
   bottom: 0;
-  left: 0px;
+  left: 0;
   right: 0;
   }
