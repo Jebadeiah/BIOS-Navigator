@@ -193,9 +193,191 @@
 
 /* END TWEAKER'S PARADISE */
 
+/* ADVANCED */
 
-
-
+.overlay_trusted_computing {
+  position: absolute;
+  top: 166px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_amd_ftpm_configuration {
+  position: absolute;
+  top: 220px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_cpu_configuration {
+  position: absolute;
+  top: 273px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_sata_configuration {
+  position: absolute;
+  top: 327px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_onboard_devices_configuration {
+  position: absolute;
+  top: 377px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_apm_configuration {
+  position: absolute;
+  top: 427px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_apm_configuration2 {
+  position: absolute;
+  top: 177px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_pci_subsystem_settings {
+  position: absolute;
+  top: 477px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_pci_subsystem_settings2 {
+  position: absolute;
+  top: 230px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_usb_configuration {
+  position: absolute;
+  top: 529px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_usb_configuration2 {
+  position: absolute;
+  top: 283px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_network_stack_configuration {
+  position: absolute;
+  top: 582px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_network_stack_configuration2 {
+  position: absolute;
+  top: 333px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_hdd_sdd_smart_information {
+  position: absolute;
+  top: 633px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_hdd_sdd_smart_information2 {
+  position: absolute;
+  top: 386px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_nvme_configuration {
+  position: absolute;
+  top: 686px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_nvme_configuration2 {
+  position: absolute;
+  top: 438px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_amd_pbs {
+  position: absolute;
+  top: 741px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_amd_pbs2 {
+  position: absolute;
+  top: 492px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_amd_overclocking {
+  position: absolute;
+  top: 545px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_amd_cbs {
+  position: absolute;
+  top: 596px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_ipv4_network_configuration {
+  position: absolute;
+  top: 648px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_intel_r_ethernet_controller {
+  position: absolute;
+  top: 700px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_ipv4_network_configuration2 {
+  position: absolute;
+  top: 752px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_serial_port_1_configuration {
+  position: absolute;
+  top: 364px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_usb_single_port_control {
+  position: absolute;
+  top: 588px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+/* END ADVANCED */
 
 /* GARBAGE TEST CODE BELOW */
 .overlay_test_button {
