@@ -162,13 +162,6 @@
   left: 0;
   right: 0;
   }
-.overlay_precision_boost_overdrive2 {
-  position: absolute;
-  top: 156px;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  }
 .overlay_dram_timing_control {
   position: absolute;
   top: 202px;
@@ -365,7 +358,7 @@
   }
 .overlay_serial_port_1_configuration {
   position: absolute;
-  top: 364px;
+  top: 365px;
   bottom: 0;
   left: 0;
   right: 0;
@@ -373,6 +366,146 @@
 .overlay_usb_single_port_control {
   position: absolute;
   top: 588px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_cpu_common_options {
+  position: absolute;
+  top: 260px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_performance {
+  position: absolute;
+  top: 261px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_custom_core_pstates {
+  position: absolute;
+  top: 261px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_prefetcher_settings {
+  position: absolute;
+  top: 313px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_core_watchdog {
+  position: absolute;
+  top: 365px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_df_common_options {
+  position: absolute;
+  top: 313px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_umc_common_options {
+  position: absolute;
+  top: 365px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_nbio_common_options {
+  position: absolute;
+  top: 418px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_1 {
+  position: absolute;
+  top: 156px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_3 {
+  position: absolute;
+  top: 261px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_4 {
+  position: absolute;
+  top: 313px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_5 {
+  position: absolute;
+  top: 365px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_6 {
+  position: absolute;
+  top: 418px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_6_5 {
+  position: absolute;
+  top: 470px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_7 {
+  position: absolute;
+  top: 486px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_8 {
+  position: absolute;
+  top: 523px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_9 {
+  position: absolute;
+  top: 573px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_9_5 {
+  position: absolute;
+  top: 594px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_10 {
+  position: absolute;
+  top: 654px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_12 {
+  position: absolute;
+  top: 754px;
   bottom: 0;
   left: 0;
   right: 0;
