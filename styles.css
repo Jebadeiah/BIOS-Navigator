@@ -48,6 +48,17 @@
   height: 45px;
   background: transparent;
   }
+.button_cancel {
+  width: 239px;
+  height: 45px;
+  background: transparent;
+  }
+.button_cancel2 {
+  width: 220px;
+  height: 45px;
+  background: transparent;
+  }
+
 .img-wrapper {
   position: relative;
   }
@@ -125,6 +136,7 @@
   left: 0;
   right: 0;
   }
+  
 /* Below are all of the buttons unique to each page. Space */
 /* Space between buttons is 56px */
 
@@ -188,42 +200,56 @@
 
 /* ADVANCED */
 
-.overlay_trusted_computing {
+.overlay_slot1 {
   position: absolute;
   top: 166px;
   bottom: 0;
   left: 0;
   right: 0;
   }
-.overlay_amd_ftpm_configuration {
+.overlay_slot1_1 {
+  position: absolute;
+  top: 169px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot2 {
   position: absolute;
   top: 220px;
   bottom: 0;
   left: 0;
   right: 0;
   }
-.overlay_cpu_configuration {
+.overlay_slot3 {
   position: absolute;
   top: 273px;
   bottom: 0;
   left: 0;
   right: 0;
   }
-.overlay_sata_configuration {
+.overlay_slot3_5 {
+  position: absolute;
+  top: 279px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot4 {
   position: absolute;
   top: 327px;
   bottom: 0;
   left: 0;
   right: 0;
   }
-.overlay_onboard_devices_configuration {
+.overlay_slot5 {
   position: absolute;
   top: 377px;
   bottom: 0;
   left: 0;
   right: 0;
   }
-.overlay_apm_configuration {
+.overlay_slot6 {
   position: absolute;
   top: 427px;
   bottom: 0;
@@ -237,7 +263,7 @@
   left: 0;
   right: 0;
   }
-.overlay_pci_subsystem_settings {
+.overlay_slot7 {
   position: absolute;
   top: 477px;
   bottom: 0;
@@ -251,7 +277,7 @@
   left: 0;
   right: 0;
   }
-.overlay_usb_configuration {
+.overlay_slot8 {
   position: absolute;
   top: 529px;
   bottom: 0;
@@ -265,7 +291,7 @@
   left: 0;
   right: 0;
   }
-.overlay_network_stack_configuration {
+.overlay_slot9 {
   position: absolute;
   top: 582px;
   bottom: 0;
@@ -279,7 +305,7 @@
   left: 0;
   right: 0;
   }
-.overlay_hdd_sdd_smart_information {
+.overlay_slot10 {
   position: absolute;
   top: 633px;
   bottom: 0;
@@ -293,7 +319,7 @@
   left: 0;
   right: 0;
   }
-.overlay_nvme_configuration {
+.overlay_slot11 {
   position: absolute;
   top: 686px;
   bottom: 0;
@@ -307,7 +333,7 @@
   left: 0;
   right: 0;
   }
-.overlay_amd_pbs {
+.overlay_slot12 {
   position: absolute;
   top: 741px;
   bottom: 0;
@@ -433,6 +459,13 @@
   left: 0;
   right: 0;
   }
+.overlay_slot_1_5 {
+  position: absolute;
+  top: 162px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
 .overlay_slot_3 {
   position: absolute;
   top: 261px;
@@ -461,6 +494,20 @@
   left: 0;
   right: 0;
   }
+.overlay_slot_6_1 {
+  position: absolute;
+  top: 445px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_6_3 {
+  position: absolute;
+  top: 464px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
 .overlay_slot_6_5 {
   position: absolute;
   top: 470px;
@@ -475,9 +522,23 @@
   left: 0;
   right: 0;
   }
+.overlay_slot_7_1 {
+  position: absolute;
+  top: 494px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
 .overlay_slot_8 {
   position: absolute;
   top: 523px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.overlay_slot_8_1 {
+  position: absolute;
+  top: 547px;
   bottom: 0;
   left: 0;
   right: 0;
@@ -496,6 +557,13 @@
   left: 0;
   right: 0;
   }
+.overlay_slot_9_6 {
+  position: absolute;
+  top: 600px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
 .overlay_slot_10 {
   position: absolute;
   top: 654px;
@@ -510,32 +578,60 @@
   left: 0;
   right: 0;
   }
+.overlay_cancel {
+  position: absolute;
+  top: 752px;
+  bottom: 0;
+  left: 1241px;
+  right: 0;
+}
+.overlay_ok {
+  position: absolute;
+  top: 752px;
+  bottom: 0;
+  left: 978px;
+  right: 0;
+}
+.overlay_cancel2 {
+  position: absolute;
+  top: 824px;
+  bottom: 0;
+  left: 1197px;
+  right: 0;
+}
+.overlay_ok2 {
+  position: absolute;
+  top: 824px;
+  bottom: 0;
+  left: 933px;
+  right: 0;
+}
+.overlay_cancel_2 {
+  position: absolute;
+  top: 837px;
+  bottom: 0;
+  left: 1201px;
+  right: 0;
+}
+.overlay_ok_2 {
+  position: absolute;
+  top: 837px;
+  bottom: 0;
+  left: 936px;
+  right: 0;
+}
+.overlay_ok2_2 {
+  position: absolute;
+  top: 752px;
+  bottom: 0;
+  left: 903px;
+  right: 0;
+}
+.overlay_exit_flash {
+  position: absolute;
+  top: 1005px;
+  bottom: 0;
+  left: 1663px;
+  right: 0;
+}
 /* END ADVANCED */
-
-/* GARBAGE TEST CODE BELOW */
-.overlay_test_button {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  }
-.overlay_test_button_2 {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}.overlay_test_button_3 {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}.overlay_test_button_4 {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  }
