@@ -1,3 +1,14 @@
+.button_version {
+  width: 194px;
+  height: 37.6px;
+  background-color: #997557;
+  }
+.button_index {
+  width: 142px;
+  height: 35px;
+  background-color: transparent;
+  border-color: #c39e83;
+  }
 .button_main {
   width: 100px;
   height: 40px;
@@ -62,9 +73,20 @@
 .img-wrapper {
   position: relative;
   }
+.img-board {
+  width: 10%;
+  height: 10%;
+  }
 .img-responsive {
   width: auto;
   height: auto;
+  }
+.overlay_index {
+  position: absolute;
+  top: 15px;
+  bottom: 0;
+  left: 30px;
+  right: 0;
   }
 .overlay_main {
   position: absolute;
